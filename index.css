@@ -1,0 +1,11 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+   font-family: 'Rubik';
+}
+::selection{
+  color:rgb(109, 220, 220);
+}
